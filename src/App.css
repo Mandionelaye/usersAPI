@@ -1,3 +1,17 @@
+.containe{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.107),rgba(0, 0, 0, 0.203)),url(./fond.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.h{
+
+  text-align: center;
+}
+.text{
+  color: antiquewhite;
+}
+
 .App {
   text-align: center;
 }
